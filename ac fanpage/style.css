@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Dosis:wght@400;500;600&display=swap");
+
+body {
+  font-family: "Dosis", sans-serif;
+  font-weight: 500;
+  letter-spacing: 1px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+a {
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
+img{
+    width: 95%;
+}
+
+.ezio_img{
+  filter: drop-shadow(30px 10px 1.75rem black);
+  width: 40%;
+  position: absolute;
+   top: 9%;
+   left: 55%;
+}
+
+span.georgi{
+  color: #dc143c;
+}
+
+.card-body img{
+  width: 54%;
+}
+
+.iconSize{
+  font-size: 180%;
+}
+
+#map{
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+
+.pSize span{
+  font-size: 200rem;
+}
+
+.icons:hover{
+  color: #dc143c;
+}
+
